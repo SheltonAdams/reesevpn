@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reesevpn/static/css/main.1feb5f87.css",
+    "main.js": "/reesevpn/static/js/main.bb42c4c4.js",
+    "static/media/video.mp4": "/reesevpn/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/svg-1.svg": "/reesevpn/static/media/svg-1.9b9d5e826d380311bdc0c98ce2591c55.svg",
+    "static/media/svg-5.svg": "/reesevpn/static/media/svg-5.9967ef8f3c23eb0b22f8028ae13a263f.svg",
+    "static/media/svg-2.svg": "/reesevpn/static/media/svg-2.f23d69b82dd225d5716963487083b961.svg",
+    "static/media/svg-3.svg": "/reesevpn/static/media/svg-3.e66d83d09b501e687940bcbd9cddd32e.svg",
+    "static/media/svg-6.svg": "/reesevpn/static/media/svg-6.73c5c1a7581c32a04dad53fd85bf99c3.svg",
+    "static/media/svg-4.svg": "/reesevpn/static/media/svg-4.7f91ba5b7812a51d067ae25cf31ef734.svg",
+    "index.html": "/reesevpn/index.html",
+    "main.1feb5f87.css.map": "/reesevpn/static/css/main.1feb5f87.css.map",
+    "main.bb42c4c4.js.map": "/reesevpn/static/js/main.bb42c4c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1feb5f87.css",
+    "static/js/main.bb42c4c4.js"
+  ]
+}
